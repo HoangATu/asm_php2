@@ -90,7 +90,7 @@
  <?php /*                                            </div>*/ ?>
  <?php /*                                        </div>*/ ?>
  <?php /*                                    </div>*/ ?>
- <?php /*                                </div>*/ ?>
+ <?php /*                                </div> */ ?>
  </div>
  </div>
  <?php endforeach; $this->popLoop(); $loop = $this->getFirstLoop(); ?>
